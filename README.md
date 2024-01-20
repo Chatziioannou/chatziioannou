@@ -1,16 +1,25 @@
-### Hi there 👋
+<html>
 
-<!--
-**Chatziioannou/chatziioannou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<body>
+  <h1>NIkitaras</h1>
+  <p>Welcome to my life!</p>
+  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
+</body>
 
-Here are some ideas to get you started:
+</html><html>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<body>
+  <h1>YOUR NAME</h1>
+  <p>Welcome to my website!</p>
+  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
+</body>
+
+</html><html>
+
+<body>
+  <h1>YOUR NAME</h1>
+  <p>Welcome to my website!</p>
+  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
+</body>
+
+</html>
